@@ -1,0 +1,174 @@
+,title,url,genre,user_rating,critic_rating
+0,A Million Ways to Die in the West ,http://www.rottentomatoes.com//m/a_million_ways_to_die_in_the_west/,Western,41,33
+1,A Most Wanted Man ,http://www.rottentomatoes.com/m/a_most_wanted_man/,Mystery & Suspense,67,91
+2,A Walk Among the Tombstones ,http://www.rottentomatoes.com/m/a_walk_among_the_tombstones/,Drama,59,66
+3,Addicted ,http://www.rottentomatoes.com//m/addicted_2014/,Drama,57,8
+4,American Sniper ,http://www.rottentomatoes.com/m/american_sniper/,Drama,80,73
+5,Annabelle ,http://www.rottentomatoes.com//m/annabelle/,Horror,40,29
+6,Annie ,http://www.rottentomatoes.com//m/annie_2012/,Drama,63,29
+7,Antboy ,http://www.rottentomatoes.com/m/antboy/,Action & Adventure,44,43
+8,"As Above, So Below ",http://www.rottentomatoes.com/m/as_aboveso_below/,Documentary,41,27
+9,At Middleton ,http://www.rottentomatoes.com//m/at_middleton/,Comedy,45,58
+10,Autómata ,http://www.rottentomatoes.com/m/automata/,Art House & International,32,31
+11,Bad Words ,http://www.rottentomatoes.com/m/bad_words/,Comedy,62,65
+12,Begin Again ,http://www.rottentomatoes.com//m/begin_again_2013/,Drama,82,83
+13,Belle ,http://www.rottentomatoes.com//m/belle_2014/,Drama,84,83
+14,Beyond the Lights ,http://www.rottentomatoes.com//m/beyond_the_lights/,Drama,83,84
+15,Big Bad Wolves ,http://www.rottentomatoes.com//m/big_bad_wolves_2013/,Drama,69,77
+16,Big Eyes ,http://www.rottentomatoes.com//m/big_eyes/,Drama,76,72
+17,Big Hero 6 ,http://www.rottentomatoes.com/m/big_hero_6/,Animation,93,89
+18,Birdman ,http://www.rottentomatoes.com//m/birdman_2014/,Comedy,86,93
+19,Blended ,http://www.rottentomatoes.com/m/blended/,Comedy,65,14
+20,Boyhood ,http://www.rottentomatoes.com//m/boyhood/,Drama,89,99
+21,Brick Mansions ,http://www.rottentomatoes.com/m/brick_mansions/,Drama,48,26
+22,Camp X-Ray ,http://www.rottentomatoes.com/m/camp_x_ray/,Drama,69,72
+23,Captain America: The Winter Soldier ,http://www.rottentomatoes.com/m/captain_america_the_winter_soldier_2014/,Action & Adventure,92,89
+24,Cheap Thrills ,http://www.rottentomatoes.com//m/cheap_thrills_2013/,Mystery & Suspense,70,89
+25,Chef ,http://www.rottentomatoes.com//m/chef_2014/,Comedy,86,88
+26,Cuban Fury ,http://www.rottentomatoes.com/m/cuban_fury_2013/,Romance,44,51
+27,Dawn Of The Planet Of The Apes ,http://www.rottentomatoes.com/m/dawn_of_the_planet_of_the_apes/,Drama,90,91
+28,Deliver Us from Evil ,http://www.rottentomatoes.com//m/deliver_us_from_evil_2014/,Action & Adventure,43,28
+29,Divergent ,http://www.rottentomatoes.com/m/divergent/,Action & Adventure,71,41
+30,Dr. Cabbie ,http://www.rottentomatoes.com/m/dr_cabbie/,Comedy,85,
+31,Dracula Untold ,http://www.rottentomatoes.com/m/dracula_untold/,Drama,60,22
+32,Dracula Untold ,http://www.rottentomatoes.com/m/dracula_untold/,Drama,60,22
+33,Draft Day ,http://www.rottentomatoes.com/m/draft_day/,Drama,67,60
+34,Dumb and Dumber To ,http://www.rottentomatoes.com/m/dumb_and_dumber_to/,Comedy,46,28
+35,Earth to Echo ,http://www.rottentomatoes.com/m/earth_to_echo/,Action & Adventure,48,48
+36,Live Die Repeat: Edge of Tomorrow ,http://www.rottentomatoes.com//m/live_die_repeat_edge_of_tomorrow/,Drama,91,90
+37,Enemy ,http://www.rottentomatoes.com//m/enemy_2013/,Mystery & Suspense,60,74
+38,Exodus: Gods and Kings ,http://www.rottentomatoes.com/m/exodus_gods_and_kings/,Drama,39,29
+39,Extraterrestrial ,http://www.rottentomatoes.com//m/extraterrestrial_2014/,Science Fiction & Fantasy,26,31
+40,Force Majeure ,http://www.rottentomatoes.com//m/force_majeure_2014/,Drama,78,93
+41,Foxcatcher ,http://www.rottentomatoes.com/m/foxcatcher/,Drama,77,86
+42,Frank ,http://www.rottentomatoes.com//m/frank_2014/,Drama,75,92
+43,Fury ,http://www.rottentomatoes.com//m/fury_2015/,Drama,87,78
+44,Get On Up ,http://www.rottentomatoes.com//m/get_on_up/,Drama,74,80
+45,Rifftrax Live: Godzilla ,http://www.rottentomatoes.com//m/rifftrax_live_godzilla/,Special Interest,90,
+46,Gone Girl ,http://www.rottentomatoes.com//m/gone_girl/,Mystery & Suspense,89,88
+47,Guardians of the Galaxy ,http://www.rottentomatoes.com//m/guardians_of_the_galaxy/,Action & Adventure,94,90
+48,Heaven Is for Real ,http://www.rottentomatoes.com/m/heaven_is_for_real/,Drama,67,46
+49,Hector And The Search For Happiness ,http://www.rottentomatoes.com/m/hector_and_the_search_for_happiness/,Drama,67,35
+50,Hercules ,http://www.rottentomatoes.com//m/hercules_the_thracian_wars/,Action & Adventure,52,58
+51,Honeymoon ,http://www.rottentomatoes.com//m/honeymoon_2014/,Drama,47,74
+52,Horrible Bosses 2 ,http://www.rottentomatoes.com/m/horrible_bosses_2/,Comedy,56,36
+53,Housebound ,http://www.rottentomatoes.com//m/housebound/,Mystery & Suspense,75,95
+54,How to Train Your Dragon 2 ,http://www.rottentomatoes.com/m/how_to_train_your_dragon_2/,Action & Adventure,91,92
+55,"I, Frankenstein ",http://www.rottentomatoes.com//m/i_frankenstein/,Horror,39,3
+56,I Origins ,http://www.rottentomatoes.com//m/i_origins/,Drama,70,52
+57,Ida ,http://www.rottentomatoes.com//m/ida_2013/,Drama,81,96
+58,If I Stay ,http://www.rottentomatoes.com/m/if_i_stay/,Drama,64,36
+59,Inherent Vice ,http://www.rottentomatoes.com/m/inherent_vice/,Mystery & Suspense,,70
+60,Interstellar ,http://www.rottentomatoes.com//m/interstellar_2014/,Action & Adventure,87,73
+61,Into The Storm ,http://www.rottentomatoes.com//m/into_the_storm_2014/,Mystery & Suspense,45,21
+62,Into the Woods ,http://www.rottentomatoes.com//m/into_the_woods_2014/,Musical & Performing Arts,62,70
+63,Jack Ryan: Shadow Recruit ,http://www.rottentomatoes.com/m/jack_ryan_shadow_recruit/,Drama,54,56
+64,Jersey Boys ,http://www.rottentomatoes.com/m/jersey_boys/,Musical & Performing Arts,66,53
+65,Jessabelle ,http://www.rottentomatoes.com/m/jessabelle/,Drama,37,25
+66,Joe Rogan: Rocky Mountain High ,http://www.rottentomatoes.com//m/joe_rogan_rocky_mountain_high/,Television,,
+67,John Wick ,http://www.rottentomatoes.com/m/john_wick/,Action & Adventure,82,85
+68,Kill the Messenger ,http://www.rottentomatoes.com//m/kill_the_messenger_2015/,Mystery & Suspense,78,77
+69,Kirk Cameron's Saving Christmas ,http://www.rottentomatoes.com//m/kirk_camerons_saving_christmas/,Kids & Family,32,0
+70,Kite ,http://www.rottentomatoes.com//m/kite_2014/,Action & Adventure,21,0
+71,Labyrinthus ,http://www.rottentomatoes.com/m/labyrinthus/,Kids & Family,,
+72,Laggies ,http://www.rottentomatoes.com/m/laggies/,Drama,58,69
+73,Left Behind ,http://www.rottentomatoes.com//m/left_behind_2014/,Mystery & Suspense,55,2
+74,Let's Be Cops ,http://www.rottentomatoes.com//m/lets_be_cops/,Action & Adventure,55,18
+75,Leviathan ,http://www.rottentomatoes.com//m/leviafan/,Drama,87,
+76,Locke ,http://www.rottentomatoes.com//m/locke/,Mystery & Suspense,70,89
+77,Love Is Strange ,http://www.rottentomatoes.com//m/love_is_strange_2014/,Drama,67,96
+78,Lucy ,http://www.rottentomatoes.com//m/lucy_2014/,Action & Adventure,47,66
+79,Magic in the Moonlight ,http://www.rottentomatoes.com/m/magic_in_the_moonlight/,Drama,50,51
+80,Maleficent ,http://www.rottentomatoes.com/m/maleficent_2014/,Science Fiction & Fantasy,72,49
+81,Mary Kom ,http://www.rottentomatoes.com/m/mary_kom/,Drama,62,
+82,"Men, Women & Children ",http://www.rottentomatoes.com/m/men_women_and_children/,Drama,50,31
+83,Million Dollar Arm ,http://www.rottentomatoes.com/m/million_dollar_arm/,Drama,71,61
+84,Mr. Peabody & Sherman ,http://www.rottentomatoes.com/m/mr_peabody_and_sherman/,Action & Adventure,74,79
+85,Mr. Turner ,http://www.rottentomatoes.com/m/mr_turner/,Drama,64,97
+86,Muppets Most Wanted ,http://www.rottentomatoes.com/m/muppets_most_wanted/,Comedy,60,79
+87,Need For Speed ,http://www.rottentomatoes.com//m/need_for_speed/,Action & Adventure,59,22
+88,Neighbors ,http://www.rottentomatoes.com//m/neighbors_2014/,Comedy,65,73
+89,Night at the Museum: Secret of the Tomb ,http://www.rottentomatoes.com/m/night_at_the_museum_secret_of_the_tomb/,Action & Adventure,67,48
+90,Nightcrawler ,http://www.rottentomatoes.com//m/nightcrawler/,Mystery & Suspense,87,95
+91,No Good Deed ,http://www.rottentomatoes.com//m/no_good_deed_2013/,Mystery & Suspense,63,10
+92,Noah ,http://www.rottentomatoes.com//m/noah_2014/,Drama,43,77
+93,Nymphomaniac: Volume I ,http://www.rottentomatoes.com//m/nymphomaniac_volume_i/,Art House & International,71,75
+94,Obvious Child ,http://www.rottentomatoes.com/m/obvious_child/,Comedy,74,88
+95,Oculus ,http://www.rottentomatoes.com/m/oculus/,Drama,53,74
+96,Only Lovers Left Alive ,http://www.rottentomatoes.com/m/only_lovers_left_alive/,Drama,75,85
+97,Oorlogsgeheimen (Secrets of War) ,http://www.rottentomatoes.com/m/oorlogsgeheimen/,Drama,,
+98,Ouija ,http://www.rottentomatoes.com//m/ouija_2014/,Action & Adventure,29,7
+99,PK ,http://www.rottentomatoes.com//m/pk/,Drama,87,
+100,Palo Alto ,http://www.rottentomatoes.com//m/palo_alto/,Drama,50,73
+101,Planes: Fire And Rescue ,http://www.rottentomatoes.com/m/planes_fire_and_rescue/,Animation,59,44
+102,Pompeii ,http://www.rottentomatoes.com//m/pompeii_2013/,Drama,35,29
+103,Rio 2 ,http://www.rottentomatoes.com//m/rio_2/,Animation,60,48
+104,RoboCop ,http://www.rottentomatoes.com//m/1200731-robocop/,Action & Adventure,52,48
+105,Rosewater ,http://www.rottentomatoes.com//m/rosewater/,Drama,74,74
+106,Selma ,http://www.rottentomatoes.com//m/selma/,Drama,85,
+107,Sex Tape ,http://www.rottentomatoes.com//m/sex_tape_2014/,Comedy,34,18
+108,Snowpiercer ,http://www.rottentomatoes.com/m/snowpiercer/,Science Fiction & Fantasy,74,95
+109,Son Of God ,http://www.rottentomatoes.com//m/son_of_god_2014/,Drama,73,21
+110,Song Of The Sea ,http://www.rottentomatoes.com//m/song_of_the_sea_2014/,Animation,88,95
+111,St. Vincent ,http://www.rottentomatoes.com//m/st_vincent/,Comedy,81,76
+112,Stalingrad ,http://www.rottentomatoes.com//m/stalingrad_2014/,Drama,42,48
+113,Step Up: All In ,http://www.rottentomatoes.com/m/step_up_all_in/,Drama,58,43
+114,Tammy ,http://www.rottentomatoes.com//m/tammy_2014/,Comedy,38,24
+115,Teenage Mutant Ninja Turtles ,http://www.rottentomatoes.com//m/teenage_mutant_ninja_turtles_2013/,Action & Adventure,55,22
+116,That Awkward Moment ,http://www.rottentomatoes.com/m/that_awkward_moment/,Comedy,47,23
+117,The Amazing Spider-Man 2 ,http://www.rottentomatoes.com//m/the_amazing_spider_man_2/,Drama,67,53
+118,The Babadook ,http://www.rottentomatoes.com/m/the_babadook/,Drama,76,98
+119,The Better Angels ,http://www.rottentomatoes.com/m/the_better_angels/,Drama,60,40
+120,The Book of Life ,http://www.rottentomatoes.com//m/the_book_of_life_2014/,Animation,81,82
+121,The Boxtrolls ,http://www.rottentomatoes.com/m/the_boxtrolls/,Action & Adventure,68,74
+122,The Double ,http://www.rottentomatoes.com//m/the_double_2013/,Comedy,61,82
+123,The Drop ,http://www.rottentomatoes.com//m/the_drop/,Drama,81,89
+124,The Equalizer ,http://www.rottentomatoes.com/m/the_equalizer_2013/,Mystery & Suspense,79,61
+125,The Expendables 3 ,http://www.rottentomatoes.com//m/the_expendables_3/,Action & Adventure,50,32
+126,The Fault In Our Stars ,http://www.rottentomatoes.com/m/the_fault_in_our_stars/,Drama,86,80
+127,The Gambler ,http://www.rottentomatoes.com//m/the_gambler_2015/,Mystery & Suspense,38,47
+128,The Giver ,http://www.rottentomatoes.com//m/the_giver/,Drama,59,36
+129,The Grand Budapest Hotel ,http://www.rottentomatoes.com/m/the_grand_budapest_hotel/,Drama,86,92
+130,The Guest ,http://www.rottentomatoes.com//m/the_guest_2014/,Mystery & Suspense,74,91
+131,The Hobbit: The Battle of the Five Armies ,http://www.rottentomatoes.com/m/the_hobbit_the_battle_of_the_five_armies/,Action & Adventure,78,60
+132,The Hundred-Foot Journey ,http://www.rottentomatoes.com/m/the_hundred_foot_journey/,Drama,82,67
+133,The Imitation Game ,http://www.rottentomatoes.com/m/the_imitation_game/,Mystery & Suspense,94,89
+134,The Interview ,http://www.rottentomatoes.com//m/the_interview_2014/,Comedy,64,50
+135,The Judge ,http://www.rottentomatoes.com//m/the_judge_2014/,Drama,76,47
+136,The LEGO Movie ,http://www.rottentomatoes.com//m/the_lego_movie/,Action & Adventure,87,96
+137,The Maze Runner ,http://www.rottentomatoes.com//m/the_maze_runner/,Action & Adventure,71,63
+138,The Monuments Men ,http://www.rottentomatoes.com/m/the_monuments_men/,Drama,44,31
+139,The November Man ,http://www.rottentomatoes.com/m/the_november_man/,Mystery & Suspense,50,35
+140,The Nut Job ,http://www.rottentomatoes.com//m/the_nut_job/,Comedy,45,10
+141,The One I Love ,http://www.rottentomatoes.com//m/the_one_i_love/,Drama,79,80
+142,The Other Woman ,http://www.rottentomatoes.com//m/the_other_woman_2014/,Comedy,58,24
+143,The Purge: Anarchy ,http://www.rottentomatoes.com/m/the_purge_anarchy_2014/,Horror,59,56
+144,The Quiet Ones ,http://www.rottentomatoes.com/m/the_quiet_ones_2013/,Horror,26,36
+145,The Raid 2 ,http://www.rottentomatoes.com//m/the_raid_2/,Action & Adventure,88,79
+146,The Railway Man ,http://www.rottentomatoes.com//m/the_railway_man/,Drama,69,66
+147,The Signal ,http://www.rottentomatoes.com//m/the_signal_2014/,Mystery & Suspense,41,56
+148,The Skeleton Twins ,http://www.rottentomatoes.com/m/the_skeleton_twins/,Drama,77,87
+149,The Song ,http://www.rottentomatoes.com//m/the_song/,Drama,92,29
+150,The Tale of the Princess Kaguya ,http://www.rottentomatoes.com/m/the_tale_of_the_princess_kaguya/,Art House & International,91,
+151,The Theory of Everything ,http://www.rottentomatoes.com//m/the_theory_of_everything_2014/,Drama,84,81
+152,Think Like a Man Too ,http://www.rottentomatoes.com/m/think_like_a_man_too/,Comedy,61,23
+153,Third Person ,http://www.rottentomatoes.com//m/third_person/,Drama,36,23
+154,This Is Where I Leave You ,http://www.rottentomatoes.com/m/this_is_where_i_leave_you/,Comedy,62,42
+155,Top Five ,http://www.rottentomatoes.com//m/top_five/,Comedy,72,90
+156,Tracks ,http://www.rottentomatoes.com//m/tracks_2013/,Drama,77,81
+157,Transcendence ,http://www.rottentomatoes.com//m/transcendence_2014/,Drama,38,19
+158,Transformers: Age of Extinction ,http://www.rottentomatoes.com/m/transformers_age_of_extinction/,Action & Adventure,53,18
+159,Tusk ,http://www.rottentomatoes.com//m/tusk_2014/,Horror,48,39
+160,Unbroken ,http://www.rottentomatoes.com//m/unbroken_2014/,Drama,72,51
+161,Under the Skin ,http://www.rottentomatoes.com//m/under_the_skin_2013/,Science Fiction & Fantasy,54,86
+162,Visitors ,http://www.rottentomatoes.com//m/visitors_2013/,Documentary,51,69
+163,We Are the Best! ,http://www.rottentomatoes.com/m/we_are_the_best/,Drama,78,97
+164,Wetlands ,http://www.rottentomatoes.com//m/wetlands_2014/,Drama,62,91
+165,What If ,http://www.rottentomatoes.com//m/what_if_2014/,Comedy,70,69
+166,Whiplash ,http://www.rottentomatoes.com//m/whiplash_2014/,Drama,96,96
+167,White Bird in a Blizzard ,http://www.rottentomatoes.com/m/white_bird_in_a_blizzard/,Drama,52,48
+168,Why Don't You Play in Hell? ,http://www.rottentomatoes.com//m/why_dont_you_play_in_hell/,Art House & International,87,83
+169,Wild ,http://www.rottentomatoes.com//m/wild_2014/,Drama,81,92
+170,Winter Sleep ,http://www.rottentomatoes.com//m/kis_uykusu/,Drama,84,86
+171,Wish I Was Here ,http://www.rottentomatoes.com//m/wish_i_was_here/,Drama,65,46
+172,X-Men: Days of Future Past ,http://www.rottentomatoes.com/m/x_men_days_of_future_past/,Action & Adventure,92,92
